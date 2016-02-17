@@ -1,0 +1,48 @@
+{
+    "world": [
+        {
+            "name": "wood",
+            "type": "static",
+            "x": 0.35653235653235657,
+            "y": 0.4639175257731959,
+            "width": 20,
+            "height": 100,
+            "radius": 0,
+            "angle": 0.0,
+            "color_mask": 1,
+            "fan_is_reversed": false,
+            "is_reversed": false,
+            "is_sensor": false,
+            "is_invisible": false,
+            "has_gravity": false,
+            "quantity": 0,
+            "is_template": false,
+            "full_name": "wood",
+            "selected_color": 0,
+            "texture_mask": 1,
+            "selected_texture": 0
+        },
+        {
+            "name": "wood",
+            "type": "static",
+            "x": 0.47496947496947497,
+            "y": 0.4639175257731959,
+            "width": 20,
+            "height": 100,
+            "radius": 0,
+            "angle": 0.0,
+            "color_mask": 1,
+            "fan_is_reversed": false,
+            "is_reversed": false,
+            "is_sensor": false,
+            "is_invisible": false,
+            "has_gravity": false,
+            "quantity": 0,
+            "is_template": true,
+            "full_name": "wood",
+            "selected_color": 2,
+            "texture_mask": 1,
+            "selected_texture": 2
+        }
+    ]
+}

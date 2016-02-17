@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>brick_white_1024_1274_Small.jpg</file>
+        <file>pics/save_icon2.png</file>
+        <file>pics/restart.png</file>
+        <file>pics/save.png</file>
+        <file>pics/load.png</file>
+        <file>pics/pause.png</file>
+        <file>pics/play.png</file>
+        <file>pics/back.png</file>
+        <file>pics/start.png</file>
+        <file>pics/exit.png</file>
+        <file>pics/create.png</file>
+        <file>pics/select_level.png</file>
+        <file>pics/load_button.png</file>
+        <file>pics/enter_name.png</file>
+        <file>pics/cancel.png</file>
+        <file>pics/save_btn.png</file>
+        <file>pics/name.png</file>
+        <file>pics/controls.png</file>
+        <file>pics/a.png</file>
+        <file>pics/controls (2).png</file>
+        <file>pics/d.png</file>
+        <file>pics/delete.png</file>
+        <file>pics/rotate.png</file>
+        <file>pics/s.png</file>
+        <file>pics/select.png</file>
+        <file>pics/controls3.png</file>
+    </qresource>
+</RCC>

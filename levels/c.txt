@@ -1,0 +1,50 @@
+{
+    "world": [
+        [
+            {
+                "name": "wrecking_ball_platform",
+                "type": "static",
+                "x": 0.5384615384615384,
+                "y": 0.2869415807560137,
+                "width": 20,
+                "height": 19,
+                "radius": 0,
+                "angle": 0.0,
+                "color_mask": 8,
+                "fan_is_reversed": false,
+                "is_reversed": false,
+                "is_sensor": false,
+                "is_invisible": false,
+                "has_gravity": false,
+                "quantity": 0,
+                "is_template": false,
+                "full_name": "wrecking_ball",
+                "selected_color": 0,
+                "texture_mask": 6,
+                "selected_texture": 0
+            },
+            {
+                "name": "wrecking_ball",
+                "type": "dynamic",
+                "x": 0.49572649572649576,
+                "y": 0.43127147766323029,
+                "width": 30,
+                "height": 30,
+                "radius": 15,
+                "angle": 0.0,
+                "color_mask": 13,
+                "fan_is_reversed": false,
+                "is_reversed": false,
+                "is_sensor": false,
+                "is_invisible": true,
+                "has_gravity": true,
+                "quantity": 0,
+                "is_template": false,
+                "full_name": "wrecking_ball",
+                "selected_color": 0,
+                "texture_mask": 6,
+                "selected_texture": 0
+            }
+        ]
+    ]
+}

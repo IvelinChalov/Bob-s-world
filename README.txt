@@ -3,8 +3,8 @@
 What is it?
 ------------
 
-Bob's world is a 2D physics simulator, sand box. Where the user can create simple contraptions similar to the
-popular game "Crazy machines".
+Bob's world is a 2D physics simulator, sand box. Where the user can create simple contraptions similar
+to the popular game "Crazy machines".
 
 Installation
 ------------

@@ -1,15 +1,15 @@
                Bob's world
 
-What is it?
+What is "Bob's world"?
 ------------
 
-Bob's world is a 2D physics simulator, sand box. Where the user can create simple contraptions similar
+Bob's world is a 2D physics simulator, similar to Gary's mod (a sandbox game), where the user can create simple contraptions similar
 to the popular game "Crazy machines".
 
 Installation
 ------------
 
-The game does not require installation. The user just have to copy the content
+The game does not require installation. The user just has to copy the contents
 of the folder "Bob" on his PC and use the "Bob demo.exe" to start the game.
 
 Used libraries

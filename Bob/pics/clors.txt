@@ -1,0 +1,11 @@
+wood - 
+circle
+platform
+elevator
+spring
+teleport
+fan
+domino
+wrecking ball
+catapult
+goal
